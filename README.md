@@ -2,7 +2,7 @@
 
 SCNU
 
-预约平台：https://reservation.scnu.edu.cn/
+华师预约平台：https://reservation.scnu.edu.cn/
 
 账号密码填综合服务平台的进config.ini里
 
